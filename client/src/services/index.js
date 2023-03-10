@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = "https://cooperative-lamb-bikini.cyclic.app/api/todos/";
+const URL = "https://dark-jade-swordfish-sock.cyclic.app/api/todos/";
 
 export const getTodos = () => {
     return axios.get(URL);
