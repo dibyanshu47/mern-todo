@@ -1,5 +1,5 @@
 import React from "react";
-import { deleteTodo } from "../../services";
+import { deleteTodo } from "../services";
 
 const TodoList = ({ todos, setTodos }) => {
     

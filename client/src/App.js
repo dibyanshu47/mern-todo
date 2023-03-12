@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
-import TodoInput from "./components/TodoInput/TodoInput";
-import TodoList from "./components/TodoList/TodoList";
+import TodoInput from "./components/TodoInput";
+import TodoList from "./components/TodoList";
 import { getTodos } from "./services";
 
 function App() {

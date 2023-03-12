@@ -1,5 +1,5 @@
 import React from "react";
-import { addTodo } from "../../services";
+import { addTodo } from "../services";
 
 const TodoInput = ({ todo, setTodo, todos, setTodos }) => {
 
